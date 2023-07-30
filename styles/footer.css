@@ -74,6 +74,7 @@ color: #cbb0ff;
 .footer2-div3::after,
 .footer2-div4::after,
 .footer2-div5::after
+
 {
     content: " ";
     position: absolute;
