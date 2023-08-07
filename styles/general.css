@@ -1,3 +1,7 @@
 div:hover {
     cursor: pointer;
 }
+
+body {
+    margin:0
+}

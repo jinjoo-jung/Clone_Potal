@@ -85,3 +85,24 @@ color: #cbb0ff;
     background-color: #999998;
     transform: translateY(-50%);
 }
+
+.floating {
+    display: flex;
+    flex-direction: column; /* 수직 정렬로 변경 */
+    align-items: center;
+    position:fixed;
+    right:0px;
+    bottom:50px;
+}
+
+.btn-floating {
+    background-color: #505b65;
+    width: 92px;
+    height: 37px;
+    font-size: 10px;
+    font-family: 'Noto Light', sans-serif;
+    color: white;
+    border-bottom: 0.5px solid white;
+    text-align: center;
+    line-height: 37px; /* 높이와 같은 값으로 line-height 설정 */
+}
