@@ -1,4 +1,5 @@
 # SSWU 홈페이지 클론 코딩
+⭐️성신여대 홈페이지를 Html과 css를 사용하여 클론코딩을 하였습니다
 - 클론 사이트 : https://www.sungshin.ac.kr/sites/main_kor/main.jsp
 - 데모 링크 : https://keen-vacherin-2f7c72.netlify.app
 
